@@ -27,7 +27,9 @@ Veriler yerel bir SQLite veritabanında saklanır.
 Botun çalışması için gerekli kimlik bilgilerini aşağıdaki gibi ayarlayın:
 
 $env:DISCORD_BOT_TOKEN="buraya_discord_bot_tokeninizi_yazın"
+
 $env:FUSION_BRAIN_KEY="buraya_fusion_brain_keyinizi_yazın"
+
 $env:FUSION_BRAIN_SECRET="buraya_fusion_brain_secretinizi_yazın"
 
 ## Botu Başlatma
