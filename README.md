@@ -14,7 +14,7 @@ Veriler yerel bir SQLite veritabanında saklanır.
 
 ## Kurulum
 
-1. Python 3.8+ kurulu olmalı.
+1. Python  kurulu olmalı.
 2. Projeyi klonlayın:
    ```bash
    git clone https://github.com/aysenurarslann/task_manager_bot.git
